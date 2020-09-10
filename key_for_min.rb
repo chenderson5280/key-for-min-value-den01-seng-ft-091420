@@ -6,7 +6,7 @@ count = 1
 result = ""
   name_hash.each do |key,value|
 if value < count
-  count =  value  
+  count =  value
 
 
 
