@@ -3,17 +3,17 @@
 
 def key_for_min_value(name_hash)
 count = 0
-
+result = ""
   name_hash.each do |key,value|
 if value > count
   count -= value
 
-  end
+  
 
-    #  result << name_hash[key][value]
-
+      result << name_hash[key][value]
 end
-key
+end
+result
 end
 
 
