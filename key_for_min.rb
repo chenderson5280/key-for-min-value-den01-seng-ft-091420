@@ -7,13 +7,13 @@ count = 0
   name_hash.each do |key,value|
 if value > count
   count -= value
-  result= key
+  
   end
 
     #  result << name_hash[key][value]
 
 end
-result
+key
 end
 
 
