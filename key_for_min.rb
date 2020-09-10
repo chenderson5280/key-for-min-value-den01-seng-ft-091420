@@ -13,7 +13,7 @@ if value > count
     #  result << name_hash[key][value]
 
 end
-reult
+result
 end
 
 
