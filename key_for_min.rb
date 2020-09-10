@@ -8,7 +8,7 @@ result = ""
 if value > count
   count -= value
 
-  
+
 
       result << name_hash[key][value]
 end
