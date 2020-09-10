@@ -10,7 +10,7 @@ if value > count
 
 
 
-      result << name_hash[key][value]
+      result << name_hash[key]
 end
 end
 result
